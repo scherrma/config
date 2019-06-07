@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/mnt/home/scherrma/littlefe/euler/prob1'
+let g:netrw_dirhist_2='/mnt/home/scherrma/cse830/proj/test'
+let g:netrw_dirhist_3='/home/marty/S4-python-work/canon/gratings'
+let g:netrw_dirhist_4='/home/marty/rcwa-genetics/gratings'
+let g:netrw_dirhist_5='/home/marty/rcwa-genetics/resplit/gratings'
+let g:netrw_dirhist_6='/mnt/c/Users/Marty/Desktop/fll-tournament-scheduler/sched'
+let g:netrw_dirhist_7='/mnt/c/Users/Marty/Desktop/fll-tournament-scheduler'
